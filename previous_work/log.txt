@@ -1,0 +1,642 @@
+X |   |   
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X | X |   
+---------
+O | X |   
+---------
+O | X | O
+Player wins
+X | X | X 
+---------
+O | X | O 
+---------
+O | X | O
+Player wins
+  |   | X 
+---------
+O | X | X 
+---------
+O | O | X
+Player wins
+X | X |   
+---------
+  | X | O 
+---------
+O | X | O
+Player wins
+X |   |   
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X |   |   
+---------
+O | X |   
+---------
+O |   | X
+Player wins
+X | X | X 
+---------
+  | O |   
+---------
+O | O | X
+Player wins
+  |   | X 
+---------
+  |   | X 
+---------
+O | O | X
+Player wins
+X | X | X 
+---------
+O | O | X 
+---------
+O | X | O
+Player wins
+X | O | X 
+---------
+X | X | O 
+---------
+O | X | O
+Draw
+X | X | X 
+---------
+O |   |   
+---------
+O | O | X
+Player wins
+  |   |   
+---------
+X | X | X 
+---------
+O | O |  
+Player wins
+  |   | X 
+---------
+O | X | X 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+  | X | O 
+---------
+O | O | X
+Player wins
+O |   | X 
+---------
+  | X | X 
+---------
+O | O | X
+Player wins
+  | O | X 
+---------
+  | X | X 
+---------
+O | O | X
+Player wins
+  |   | X 
+---------
+O | X | X 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+  | X | O 
+---------
+O | O | X
+Player wins
+O | X |   
+---------
+O | X | X 
+---------
+O | O | X
+Terminator wins
+X | X | X 
+---------
+  |   |   
+---------
+O | O |  
+Player wins
+X | X | X 
+---------
+  |   |   
+---------
+O |   | O
+Player wins
+X | X | X 
+---------
+O |   |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  | O |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  |   | O 
+---------
+O |   |  
+Player wins
+X | X | O 
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X | X | O 
+---------
+  | X |   
+---------
+O | X | O
+Player wins
+X | X | O 
+---------
+O | X |   
+---------
+O |   | X
+Player wins
+X | X | O 
+---------
+  | X | O 
+---------
+O |   | X
+Player wins
+X |   |   
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X | X |   
+---------
+O | X |   
+---------
+O | X | O
+Player wins
+X |   |   
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X | X |   
+---------
+O | X |   
+---------
+O | X | O
+Player wins
+X | X | X 
+---------
+O | X | O 
+---------
+O | X | O
+Player wins
+X | O | X 
+---------
+X | X | O 
+---------
+O | X | O
+Draw
+X | X | X 
+---------
+O |   |   
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+O | X |   
+---------
+O | O | X
+Player wins
+X | X | X 
+---------
+  |   |   
+---------
+O | O |  
+Player wins
+X | X | X 
+---------
+  |   |   
+---------
+O |   | O
+Player wins
+X | X | X 
+---------
+O |   |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  | O |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  |   | O 
+---------
+O |   |  
+Player wins
+X | O | X 
+---------
+  |   | X 
+---------
+O | O | X
+Player wins
+X | O | X 
+---------
+O | X | X 
+---------
+O | X | O
+Draw
+X | O | X 
+---------
+X | X | O 
+---------
+O | X | O
+Draw
+X | O | X 
+---------
+X | X | O 
+---------
+O | X | O
+Draw
+X |   | X 
+---------
+  | X |   
+---------
+O | O | O
+Terminator wins
+X | X |   
+---------
+  | X | O 
+---------
+O | X | O
+Player wins
+X | O | X 
+---------
+X | X | O 
+---------
+O | X | O
+Draw
+X |   | X 
+---------
+O | X |   
+---------
+O | O | X
+Player wins
+X |   |   
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X |   |   
+---------
+O | X |   
+---------
+O |   | X
+Player wins
+X |   | X 
+---------
+  | O | X 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+O | O | X 
+---------
+O |   | X
+Player wins
+X | X | X 
+---------
+X | O | O 
+---------
+O | O | X
+Player wins
+X | O | X 
+---------
+X | X | O 
+---------
+O | X | O
+Draw
+X | X | X 
+---------
+  | O | O 
+---------
+O |   | X
+Player wins
+X | O | X 
+---------
+  | O | X 
+---------
+O |   | X
+Player wins
+X |   | X 
+---------
+O |   | X 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+  | O | X 
+---------
+O | O | X
+Player wins
+X | X | X 
+---------
+  |   | O 
+---------
+O | O | X
+Player wins
+X | O | X 
+---------
+  |   | X 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+O |   | X 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+O |   | X 
+---------
+O | O | X
+Player wins
+X | X | X 
+---------
+  | O |   
+---------
+O | O | X
+Player wins
+X | X | X 
+---------
+  |   | O 
+---------
+O | O | X
+Player wins
+X | O | X 
+---------
+  |   | X 
+---------
+O | O | X
+Player wins
+X | X | X 
+---------
+  |   |   
+---------
+O | O |  
+Player wins
+X | X | X 
+---------
+  |   |   
+---------
+O |   | O
+Player wins
+X | X | X 
+---------
+O |   |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  | O |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  |   | O 
+---------
+O |   |  
+Player wins
+X | X | O 
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X | X | O 
+---------
+  | X |   
+---------
+O | X | O
+Player wins
+X | X | O 
+---------
+O | X |   
+---------
+O |   | X
+Player wins
+X | X | O 
+---------
+  | X | O 
+---------
+O |   | X
+Player wins
+X |   |   
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X |   |   
+---------
+  | X |   
+---------
+O | O | X
+Player wins
+X | X | X 
+---------
+O | X | O 
+---------
+O | X | O
+Player wins
+X | O | X 
+---------
+O | X | X 
+---------
+O | X | O
+Draw
+X | X |   
+---------
+O | X |   
+---------
+O | O | X
+Player wins
+X | O | X 
+---------
+O | X | X 
+---------
+O | X | O
+Draw
+  |   | X 
+---------
+O | X | X 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+O | X |   
+---------
+O | O | X
+Player wins
+  | X |   
+---------
+  | X |   
+---------
+O | X | O
+Player wins
+X | X | X 
+---------
+O | X | O 
+---------
+O | O | X
+Player wins
+X |   | X 
+---------
+  | X |   
+---------
+O | O | O
+Terminator wins
+X | X | X 
+---------
+O | X | O 
+---------
+O | X | O
+Player wins
+X | X | X 
+---------
+  |   |   
+---------
+O | O |  
+Player wins
+X | X | X 
+---------
+  |   |   
+---------
+O |   | O
+Player wins
+X | X | X 
+---------
+O |   |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  | O |   
+---------
+O |   |  
+Player wins
+X | X | X 
+---------
+  |   | O 
+---------
+O |   |  
+Player wins
+X | O | X 
+---------
+  | X | X 
+---------
+O | O | O
+Terminator wins
+X |   |   
+---------
+O | X |   
+---------
+O |   | X
+Player wins
+X |   | X 
+---------
+  | O | X 
+---------
+O | O | X
+Player wins
+X |   |   
+---------
+O | X | X 
+---------
+O | O | X
+Player wins
+X | O | X 
+---------
+O | X | X 
+---------
+O | X | O
+Draw
+  |   |   
+---------
+X | X | X 
+---------
+O | O |  
+Player wins
+  |   |   
+---------
+X | X | X 
+---------
+O |   | O
+Player wins
+X |   |   
+---------
+O | X | X 
+---------
+O | O | X
+Player wins
+  |   |   
+---------
+X | X | X 
+---------
+O | O |  
+Player wins
+  |   |   
+---------
+X | X | X 
+---------
+O |   | O
+Player wins
+  |   | X 
+---------
+X | O | X 
+---------
+O | O | X
+Player wins
+O |   | X 
+---------
+X | O | X 
+---------
+O |   | X
+Player wins
+  |   | X 
+---------
+X | O | X 
+---------
+O | O | X
+Player wins
+  | X | X 
+---------
+X | O | X 
+---------
+O | O | O
+Terminator wins
